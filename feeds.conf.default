@@ -3,6 +3,6 @@ src-git luci https://github.com/coolsnowwolf/luci
 src-git routing https://git.openwrt.org/feed/routing.git;openwrt-19.07
 #src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-19.07
 src-git helloworld https://github.com/fw876/helloworld
-src-git sky2016cn https://github.com/sky2016cn/openwrt-package
+src-git lienol https://github.com/sky2016cn/openwrt-package
 src-git lisaac https://github.com/lisaac/luci-app-diskman
 src-git vernesong https://github.com/vernesong/OpenClash
